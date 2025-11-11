@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7+BUm2GsKI=",
+  "success": true,
+  "projectFilePath": "D:\\SP-NET8\\SftpIntegrationConsole\\SftpIntegrationConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spatil\\.nuget\\packages\\winscp\\6.5.4\\winscp.6.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

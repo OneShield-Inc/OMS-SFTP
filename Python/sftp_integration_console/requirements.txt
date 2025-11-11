@@ -1,0 +1,5 @@
+# SFTP Integration Console - Python Dependencies
+# Tested with Python 3.9+
+
+paramiko==3.4.0   # SSH and SFTP client library for secure file transfer
+cryptography>=41.0.0  # Required by Paramiko for encryption/decryption

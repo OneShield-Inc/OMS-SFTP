@@ -1,0 +1,5 @@
+D:\SP-NET8\SftpIntegrationConsole\obj\Debug\net8.0\SftpIntegrationConsole.csproj.AssemblyReference.cache
+D:\SP-NET8\SftpIntegrationConsole\obj\Debug\net8.0\SftpIntegrationConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\SP-NET8\SftpIntegrationConsole\obj\Debug\net8.0\SftpIntegrationConsole.AssemblyInfoInputs.cache
+D:\SP-NET8\SftpIntegrationConsole\obj\Debug\net8.0\SftpIntegrationConsole.AssemblyInfo.cs
+D:\SP-NET8\SftpIntegrationConsole\obj\Debug\net8.0\SftpIntegrationConsole.csproj.CoreCompileInputs.cache
